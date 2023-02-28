@@ -1,0 +1,62 @@
+body {
+    background-color: #3FD2C7;
+}
+
+.homeSec {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    padding-top: 110px;
+    color: white;
+    background-image: url(Cover.jpg);
+}
+
+.heading {
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+}
+
+.profile {
+    height: 250px;
+    width: 300px;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+.about {
+    padding: 30px;
+    font-size: 20px;
+    color: black;
+}
+
+form {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 90px;
+}
+
+.skills1 {
+    margin: 25px 0 25px 120px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.skills2 {
+    margin: 25px 0 25px 210px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.aboutSec {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+.projectSec {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
